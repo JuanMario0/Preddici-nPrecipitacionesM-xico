@@ -4,9 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-df_predicciones = pd.read_csv("C:\\Users\\PC\\Desktop\\PP Agua\\MapaPrediccionsPIIA\\df_predicciones.csv")
+df_predicciones = pd.read_csv("df_predicciones.csv")
 # Cargar el shapefile de México
-mexico = gpd.read_file("C:\\Users\\PC\\Desktop\\PP Agua\\MapaPrediccionsPIIA\\mexicoHigh.json")  # Cambia esto a la ruta de tu shapefile
+mexico = gpd.read_file("mexicoHigh.json")  # Cambia esto a la ruta de tu shapefile
 
 
 # Interfaz de usuario en Streamlit
