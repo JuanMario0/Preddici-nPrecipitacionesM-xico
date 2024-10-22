@@ -1,0 +1,397 @@
+Año,Estado,Precipitación,Categoría,Index
+2025,aguascalientes,464.951909,Baja,0
+2025,aguascalientes,667.61269,Media,198
+2025,baja california,396.451172,Baja,6
+2025,baja california,397.136256,Baja,204
+2025,baja california sur,363.841158,Baja,12
+2025,baja california sur,390.376124,Baja,210
+2025,campeche,1264.516301,Media,18
+2025,campeche,1429.46822,Media,216
+2025,chiapas,1433.541401,Media,36
+2025,chiapas,2139.00486,Alta,234
+2025,chihuahua,777.100679,Media,42
+2025,chihuahua,560.742902,Media,240
+2025,ciudad de méxico,672.748805,Media,48
+2025,ciudad de méxico,622.475136,Media,246
+2025,coahuila,776.871086,Media,24
+2025,coahuila,273.830918,Baja,222
+2025,colima,866.668844,Media,30
+2025,colima,2150.423906,Alta,228
+2025,durango,1167.710934,Media,54
+2025,durango,526.919466,Media,252
+2025,estado de méxico,794.760695,Media,84
+2025,estado de méxico,885.958458,Media,282
+2025,guanajuato,659.359367,Media,60
+2025,guanajuato,800.596777,Media,258
+2025,guerrero,924.616156,Media,66
+2025,guerrero,1251.45425,Media,264
+2025,hidalgo,834.498942,Media,72
+2025,hidalgo,558.497996,Media,270
+2025,jalisco,878.443195,Media,78
+2025,jalisco,1081.125164,Media,276
+2025,michoacán,727.558061,Media,90
+2025,michoacán,947.930776,Media,288
+2025,morelos,499.49006,Baja,96
+2025,morelos,1709.933276,Alta,294
+2025,nacional,1093.877993,Media,192
+2025,nacional,815.685352,Media,390
+2025,nayarit,877.221922,Media,102
+2025,nayarit,1363.091596,Media,300
+2025,nuevo león,1419.546456,Media,108
+2025,nuevo león,609.863704,Media,306
+2025,oaxaca,1749.144657,Alta,114
+2025,oaxaca,1176.263557,Media,312
+2025,puebla,1625.000642,Alta,120
+2025,puebla,1088.940538,Media,318
+2025,querétaro,594.189065,Media,126
+2025,querétaro,651.456474,Media,324
+2025,quintana roo,2546.045496,Alta,132
+2025,quintana roo,1318.906122,Media,330
+2025,san luis potosí,1124.465656,Media,138
+2025,san luis potosí,580.578457,Media,336
+2025,sinaloa,919.817597,Media,144
+2025,sinaloa,1261.890542,Media,342
+2025,sonora,913.59755,Media,150
+2025,sonora,892.966827,Media,348
+2025,tabasco,2151.372096,Alta,156
+2025,tabasco,1983.406016,Alta,354
+2025,tamaulipas,1137.69326,Media,162
+2025,tamaulipas,705.657703,Media,360
+2025,tlaxcala,768.28471,Media,168
+2025,tlaxcala,672.282992,Media,366
+2025,veracruz,2118.723448,Alta,174
+2025,veracruz,1350.869096,Media,372
+2025,yucatán,2107.363128,Alta,180
+2025,yucatán,1423.255539,Media,378
+2025,zacatecas,717.94199,Media,186
+2025,zacatecas,571.066447,Media,384
+2026,aguascalientes,445.471932,Baja,1
+2026,aguascalientes,609.331769,Media,199
+2026,baja california,402.294363,Baja,7
+2026,baja california,383.347938,Baja,205
+2026,baja california sur,364.302738,Baja,13
+2026,baja california sur,370.807085,Baja,211
+2026,campeche,1327.29086,Media,19
+2026,campeche,1525.81019,Alta,217
+2026,chiapas,1496.269324,Media,37
+2026,chiapas,1928.926178,Alta,235
+2026,chihuahua,815.199653,Media,43
+2026,chihuahua,570.415565,Media,241
+2026,ciudad de méxico,700.092298,Media,49
+2026,ciudad de méxico,594.582143,Media,247
+2026,coahuila,755.448446,Media,25
+2026,coahuila,270.463148,Baja,223
+2026,colima,829.878283,Media,31
+2026,colima,2263.182274,Alta,229
+2026,durango,1146.377322,Media,55
+2026,durango,570.536483,Media,253
+2026,estado de méxico,808.067126,Media,85
+2026,estado de méxico,916.387417,Media,283
+2026,guanajuato,642.238052,Media,61
+2026,guanajuato,770.146754,Media,259
+2026,guerrero,893.272366,Media,67
+2026,guerrero,1202.965129,Media,265
+2026,hidalgo,924.902539,Media,73
+2026,hidalgo,575.881795,Media,271
+2026,jalisco,855.00693,Media,79
+2026,jalisco,1084.179312,Media,277
+2026,michoacán,717.43229,Media,91
+2026,michoacán,981.040831,Media,289
+2026,morelos,479.899044,Baja,97
+2026,morelos,1678.979386,Alta,295
+2026,nacional,1096.712755,Media,193
+2026,nacional,855.08393,Media,391
+2026,nayarit,838.740284,Media,103
+2026,nayarit,1481.961403,Media,301
+2026,nuevo león,1374.58798,Media,109
+2026,nuevo león,580.189983,Media,307
+2026,oaxaca,1822.647719,Alta,115
+2026,oaxaca,1132.976504,Media,313
+2026,puebla,1514.259393,Alta,121
+2026,puebla,1071.247598,Media,319
+2026,querétaro,603.877399,Media,127
+2026,querétaro,652.211511,Media,325
+2026,quintana roo,2595.801445,Alta,133
+2026,quintana roo,1341.845605,Media,331
+2026,san luis potosí,1079.37652,Media,139
+2026,san luis potosí,615.324377,Media,337
+2026,sinaloa,931.242089,Media,145
+2026,sinaloa,1251.005193,Media,343
+2026,sonora,964.152243,Media,151
+2026,sonora,873.916268,Media,349
+2026,tabasco,2206.539941,Alta,157
+2026,tabasco,1981.346326,Alta,355
+2026,tamaulipas,1136.733572,Media,163
+2026,tamaulipas,767.404172,Media,361
+2026,tlaxcala,680.632665,Media,169
+2026,tlaxcala,595.758432,Media,367
+2026,veracruz,2241.078633,Alta,175
+2026,veracruz,1262.146142,Media,373
+2026,yucatán,2168.051042,Alta,181
+2026,yucatán,1389.763847,Media,379
+2026,zacatecas,690.790955,Media,187
+2026,zacatecas,589.71283,Media,385
+2027,aguascalientes,475.315286,Baja,2
+2027,aguascalientes,669.886563,Media,200
+2027,baja california,385.512413,Baja,8
+2027,baja california,381.977253,Baja,206
+2027,baja california sur,376.346688,Baja,14
+2027,baja california sur,377.871942,Baja,212
+2027,campeche,1258.782746,Media,20
+2027,campeche,1386.232423,Media,218
+2027,chiapas,1499.810999,Media,38
+2027,chiapas,1956.282307,Alta,236
+2027,chihuahua,836.046809,Media,44
+2027,chihuahua,538.511505,Media,242
+2027,ciudad de méxico,670.640501,Media,50
+2027,ciudad de méxico,597.268435,Media,248
+2027,coahuila,769.987599,Media,26
+2027,coahuila,287.287261,Baja,224
+2027,colima,849.1971,Media,32
+2027,colima,2303.10158,Alta,230
+2027,durango,1117.767086,Media,56
+2027,durango,559.289566,Media,254
+2027,estado de méxico,809.742567,Media,86
+2027,estado de méxico,897.704563,Media,284
+2027,guanajuato,643.959682,Media,62
+2027,guanajuato,824.622959,Media,260
+2027,guerrero,863.673349,Media,68
+2027,guerrero,1218.940682,Media,266
+2027,hidalgo,849.322681,Media,74
+2027,hidalgo,563.016043,Media,272
+2027,jalisco,905.268459,Media,80
+2027,jalisco,1141.862085,Media,278
+2027,michoacán,643.819629,Media,92
+2027,michoacán,979.433178,Media,290
+2027,morelos,502.1924,Media,98
+2027,morelos,1677.63511,Alta,296
+2027,nacional,1118.45914,Media,194
+2027,nacional,883.077161,Media,392
+2027,nayarit,806.223033,Media,104
+2027,nayarit,1323.180004,Media,302
+2027,nuevo león,1319.021947,Media,110
+2027,nuevo león,590.603748,Media,308
+2027,oaxaca,1899.937327,Alta,116
+2027,oaxaca,1079.226671,Media,314
+2027,puebla,1605.708177,Alta,122
+2027,puebla,1066.970114,Media,320
+2027,querétaro,615.506966,Media,128
+2027,querétaro,674.046707,Media,326
+2027,quintana roo,2598.441502,Alta,134
+2027,quintana roo,1342.702923,Media,332
+2027,san luis potosí,1202.568711,Media,140
+2027,san luis potosí,608.580068,Media,338
+2027,sinaloa,923.237773,Media,146
+2027,sinaloa,1185.018985,Media,344
+2027,sonora,973.698641,Media,152
+2027,sonora,932.00181,Media,350
+2027,tabasco,2205.386257,Alta,158
+2027,tabasco,1997.574361,Alta,356
+2027,tamaulipas,1172.596999,Media,164
+2027,tamaulipas,759.094053,Media,362
+2027,tlaxcala,719.025419,Media,170
+2027,tlaxcala,664.984232,Media,368
+2027,veracruz,2128.887284,Alta,176
+2027,veracruz,1292.134803,Media,374
+2027,yucatán,2228.850698,Alta,182
+2027,yucatán,1403.751395,Media,380
+2027,zacatecas,696.722277,Media,188
+2027,zacatecas,569.757756,Media,386
+2028,aguascalientes,493.451927,Baja,3
+2028,aguascalientes,659.989479,Media,201
+2028,baja california,398.282048,Baja,9
+2028,baja california,390.31394,Baja,207
+2028,baja california sur,381.222439,Baja,15
+2028,baja california sur,416.99041,Baja,213
+2028,campeche,1263.083237,Media,21
+2028,campeche,1381.198518,Media,219
+2028,chiapas,1299.570753,Media,39
+2028,chiapas,2081.264225,Alta,237
+2028,chihuahua,832.814822,Media,45
+2028,chihuahua,614.403522,Media,243
+2028,ciudad de méxico,708.904207,Media,51
+2028,ciudad de méxico,601.814622,Media,249
+2028,coahuila,805.931756,Media,27
+2028,coahuila,285.317293,Baja,225
+2028,colima,882.785043,Media,33
+2028,colima,2367.770141,Alta,231
+2028,durango,1067.36446,Media,57
+2028,durango,576.315246,Media,255
+2028,estado de méxico,803.883653,Media,87
+2028,estado de méxico,971.901554,Media,285
+2028,guanajuato,672.782985,Media,63
+2028,guanajuato,817.852344,Media,261
+2028,guerrero,891.495384,Media,69
+2028,guerrero,1346.352802,Media,267
+2028,hidalgo,908.661042,Media,75
+2028,hidalgo,566.521451,Media,273
+2028,jalisco,932.150787,Media,81
+2028,jalisco,1163.161437,Media,279
+2028,michoacán,740.622015,Media,93
+2028,michoacán,977.887179,Media,291
+2028,morelos,477.271384,Baja,99
+2028,morelos,1577.230361,Alta,297
+2028,nacional,1116.581598,Media,195
+2028,nacional,848.969126,Media,393
+2028,nayarit,823.981986,Media,105
+2028,nayarit,1520.204799,Alta,303
+2028,nuevo león,1332.087274,Media,111
+2028,nuevo león,567.836804,Media,309
+2028,oaxaca,1764.049394,Alta,117
+2028,oaxaca,1129.002791,Media,315
+2028,puebla,1549.977293,Alta,123
+2028,puebla,1064.267833,Media,321
+2028,querétaro,590.292236,Media,129
+2028,querétaro,636.090343,Media,327
+2028,quintana roo,2563.990875,Alta,135
+2028,quintana roo,1300.626471,Media,333
+2028,san luis potosí,1194.430308,Media,141
+2028,san luis potosí,590.855212,Media,339
+2028,sinaloa,941.688316,Media,147
+2028,sinaloa,1185.359553,Media,345
+2028,sonora,929.595021,Media,153
+2028,sonora,906.55231,Media,351
+2028,tabasco,2220.920395,Alta,159
+2028,tabasco,2035.31871,Alta,357
+2028,tamaulipas,1067.933801,Media,165
+2028,tamaulipas,776.386464,Media,363
+2028,tlaxcala,721.941411,Media,171
+2028,tlaxcala,651.564647,Media,369
+2028,veracruz,2037.321479,Alta,177
+2028,veracruz,1297.311356,Media,375
+2028,yucatán,2128.107418,Alta,183
+2028,yucatán,1368.729118,Media,381
+2028,zacatecas,736.461883,Media,189
+2028,zacatecas,520.003821,Media,387
+2029,aguascalientes,468.579769,Baja,4
+2029,aguascalientes,608.610012,Media,202
+2029,baja california,404.568588,Baja,10
+2029,baja california,382.683401,Baja,208
+2029,baja california sur,343.154111,Baja,16
+2029,baja california sur,382.946733,Baja,214
+2029,campeche,1315.475494,Media,22
+2029,campeche,1488.921166,Media,220
+2029,chiapas,1462.748711,Media,40
+2029,chiapas,1973.92408,Alta,238
+2029,chihuahua,836.694433,Media,46
+2029,chihuahua,566.557659,Media,244
+2029,ciudad de méxico,721.241379,Media,52
+2029,ciudad de méxico,646.056677,Media,250
+2029,coahuila,780.863265,Media,28
+2029,coahuila,301.128608,Baja,226
+2029,colima,837.115852,Media,34
+2029,colima,2341.204727,Alta,232
+2029,durango,1122.248452,Media,58
+2029,durango,599.507359,Media,256
+2029,estado de méxico,816.029739,Media,88
+2029,estado de méxico,916.073646,Media,286
+2029,guanajuato,662.057608,Media,64
+2029,guanajuato,773.523714,Media,262
+2029,guerrero,930.911871,Media,70
+2029,guerrero,1219.69202,Media,268
+2029,hidalgo,838.276438,Media,76
+2029,hidalgo,622.424588,Media,274
+2029,jalisco,851.619116,Media,82
+2029,jalisco,1178.396331,Media,280
+2029,michoacán,707.191786,Media,94
+2029,michoacán,971.286292,Media,292
+2029,morelos,504.151227,Media,100
+2029,morelos,1725.026225,Alta,298
+2029,nacional,1047.017908,Media,196
+2029,nacional,832.301104,Media,394
+2029,nayarit,831.300677,Media,106
+2029,nayarit,1442.79674,Media,304
+2029,nuevo león,1425.248719,Media,112
+2029,nuevo león,619.307505,Media,310
+2029,oaxaca,1709.800118,Alta,118
+2029,oaxaca,1131.236589,Media,316
+2029,puebla,1609.7285,Alta,124
+2029,puebla,1091.987442,Media,322
+2029,querétaro,611.777238,Media,130
+2029,querétaro,656.230315,Media,328
+2029,quintana roo,2690.846011,Alta,136
+2029,quintana roo,1325.368658,Media,334
+2029,san luis potosí,1149.921917,Media,142
+2029,san luis potosí,539.176855,Media,340
+2029,sinaloa,952.087551,Media,148
+2029,sinaloa,1269.16202,Media,346
+2029,sonora,908.373639,Media,154
+2029,sonora,871.963827,Media,352
+2029,tabasco,2280.501208,Alta,160
+2029,tabasco,1985.045652,Alta,358
+2029,tamaulipas,1164.41274,Media,166
+2029,tamaulipas,770.947285,Media,364
+2029,tlaxcala,713.932804,Media,172
+2029,tlaxcala,657.458323,Media,370
+2029,veracruz,2214.699521,Alta,178
+2029,veracruz,1248.142614,Media,376
+2029,yucatán,2059.655436,Alta,184
+2029,yucatán,1330.726062,Media,382
+2029,zacatecas,692.449488,Media,190
+2029,zacatecas,555.800962,Media,388
+2030,aguascalientes,463.486343,Baja,5
+2030,aguascalientes,624.615744,Media,203
+2030,baja california,378.671678,Baja,11
+2030,baja california,373.699587,Baja,209
+2030,baja california sur,362.990596,Baja,17
+2030,baja california sur,401.743386,Baja,215
+2030,campeche,1301.422788,Media,23
+2030,campeche,1368.584535,Media,221
+2030,chiapas,1478.083325,Media,41
+2030,chiapas,2085.434236,Alta,239
+2030,chihuahua,805.011538,Media,47
+2030,chihuahua,602.319325,Media,245
+2030,ciudad de méxico,652.317781,Media,53
+2030,ciudad de méxico,574.531475,Media,251
+2030,coahuila,785.886285,Media,29
+2030,coahuila,285.704385,Baja,227
+2030,colima,862.308911,Media,35
+2030,colima,2172.167292,Alta,233
+2030,durango,1164.284911,Media,59
+2030,durango,577.43041,Media,257
+2030,estado de méxico,800.279125,Media,89
+2030,estado de méxico,1027.350413,Media,287
+2030,guanajuato,742.652452,Media,65
+2030,guanajuato,782.019123,Media,263
+2030,guerrero,927.735347,Media,71
+2030,guerrero,1270.038887,Media,269
+2030,hidalgo,872.302517,Media,77
+2030,hidalgo,600.807005,Media,275
+2030,jalisco,891.638714,Media,83
+2030,jalisco,1021.095538,Media,281
+2030,michoacán,709.815034,Media,95
+2030,michoacán,937.075474,Media,293
+2030,morelos,507.143281,Media,101
+2030,morelos,1688.599464,Alta,299
+2030,nacional,1043.353936,Media,197
+2030,nacional,868.289934,Media,395
+2030,nayarit,868.258067,Media,107
+2030,nayarit,1389.543458,Media,305
+2030,nuevo león,1342.407782,Media,113
+2030,nuevo león,588.681364,Media,311
+2030,oaxaca,1836.649945,Alta,119
+2030,oaxaca,1153.166916,Media,317
+2030,puebla,1543.32005,Alta,125
+2030,puebla,1111.126994,Media,323
+2030,querétaro,624.197546,Media,131
+2030,querétaro,655.086143,Media,329
+2030,quintana roo,2595.400509,Alta,137
+2030,quintana roo,1280.797073,Media,335
+2030,san luis potosí,1152.458999,Media,143
+2030,san luis potosí,581.518554,Media,341
+2030,sinaloa,916.297351,Media,149
+2030,sinaloa,1178.364618,Media,347
+2030,sonora,928.384819,Media,155
+2030,sonora,863.393757,Media,353
+2030,tabasco,2144.377703,Alta,161
+2030,tabasco,1922.885421,Alta,359
+2030,tamaulipas,1135.041572,Media,167
+2030,tamaulipas,781.630891,Media,365
+2030,tlaxcala,764.154962,Media,173
+2030,tlaxcala,658.13282,Media,371
+2030,veracruz,2223.709945,Alta,179
+2030,veracruz,1279.129088,Media,377
+2030,yucatán,2156.153389,Alta,185
+2030,yucatán,1403.686723,Media,383
+2030,zacatecas,684.5351,Media,191
+2030,zacatecas,543.168657,Media,389
