@@ -52,6 +52,19 @@ with col1:
                    legend=True,
                    legend_kwds={'label': 'Precipitación (mm)'},
                    cmap='Blues')
+
+         # Agregar nombres de los estados
+        for idx, row in merged.iterrows():
+            # Obtener el centroide de cada estado
+            centroid = row.geometry.centroid
+            # Añadir el texto del nombre del estado
+            ax.annotate(text=idx.title(),  # Convertir a título para mejor presentación
+                       xy=(centroid.x, centroid.y),
+                       horizontalalignment='center',
+                       verticalalignment='center',
+                       fontsize=8,
+                       color='black')
+            
         plt.title(f'Precipitaciones {año_seleccionado}')
         st.pyplot(fig)
     except Exception as e:
