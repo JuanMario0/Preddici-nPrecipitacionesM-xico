@@ -5,3 +5,4 @@ matplotlib
 fiona
 shapely
 pyproj
+plotly
